@@ -3,7 +3,7 @@
   "name": "io.github.kongming-ai/mcp-server",
   "title": "KongMing Growth MCP",
   "description": "Cross-border e-commerce growth tools: mentions, pain points, competitors, GEO audit, synthesis.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "websiteUrl": "https://www.kmingai.com",
   "repository": {
     "url": "https://github.com/kongming-ai/mcp-server",
