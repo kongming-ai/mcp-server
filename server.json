@@ -24,8 +24,8 @@
   ],
   "_meta": {
     "io.modelcontextprotocol.registry/publisher-provided": {
-      "note": "URL placeholder until public activation; users supply their own KongMing API key.",
-      "built": "2026-09-25"
+      "note": "Live endpoint (public since 2026-09-26); users supply their own KongMing API key from app.kmingai.com.",
+      "built": "2026-09-26"
     }
   }
 }
