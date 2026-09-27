@@ -28,7 +28,7 @@ Full illustrated guide: https://kongming-doubao.jetr.within-7.com
 
 ## Tencent WorkBuddy
 
-Two paths: connector marketplace (search 孔明增长局) after listing, or direct `mcp.json` editing (client 5.6.0+).
+Two paths: connector marketplace (search KongMing-AI) after listing, or direct `mcp.json` editing (client 5.6.0+).
 Full guide: https://kongming-doubao.jetr.within-7.com (Doubao-flavored; WorkBuddy-specific page coming)
 
 ## Error codes
