@@ -2,7 +2,7 @@
 
 ## Universal (any MCP client)
 
-1. Create an API key at [app.kmingai.com](https://app.kmingai.com) (Settings → Developer).
+1. Request an API key: email [dev@kmingai.com](mailto:dev@kmingai.com) — keys are issued and scoped by KongMing staff.
 2. Add remote MCP server: URL `https://mcp.kmingai.com/mcp`, header `Authorization: Bearer <key>`.
 3. Verify: ask a question that requires your data — answers include sample sizes.
 
@@ -15,7 +15,7 @@ Raw config for clients that accept `mcp.json`:
       "type": "streamableHttp",
       "url": "https://mcp.kmingai.com/mcp",
       "headers": { "Authorization": "Bearer ${KONGMING_API_KEY}" },
-      "timeout": 30000
+      "timeout": 90000
     }
   }
 }

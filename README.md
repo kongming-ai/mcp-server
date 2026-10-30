@@ -28,13 +28,13 @@ Every answer carries **sources, sample sizes and time windows**. Zero fabricatio
 
 ## Quickstart
 
-1. Get an API key: [app.kmingai.com](https://app.kmingai.com) → Settings → Developer → Create API Key.
+1. Request an API key: email [dev@kmingai.com](mailto:dev@kmingai.com) — keys are issued and scoped by KongMing staff.
 2. Point any MCP client at the endpoint with your key as a Bearer header — see [docs/quickstart.md](docs/quickstart.md) for per-client guides (Doubao Work, Tencent WorkBuddy, generic EN).
 3. Ask: *"What are my customers complaining about in the last 30 days?"*
 
 ## Billing
 
-Credits — **same price as the KongMing workspace, no markup for external shells.** Per-key usage caps. New accounts include trial credits.
+Credits — **same price as the KongMing workspace, no markup for external shells.** Per-key usage caps. New-user benefits are as shown on the activation page.
 
 ## Docs
 
@@ -44,8 +44,9 @@ Credits — **same price as the KongMing workspace, no markup for external shell
 ## Status
 
 - [x] Public endpoint live
-- [x] 10/11 tools open (media pricing quote coming soon)
+- [x] 20/20 catalog tools callable (media family granted 2026-10-30)
 - [ ] Error codes -32008/-32009 activation (with E4 billing window)
+- [x] Listed on the official MCP Registry (io.github.kongming-ai/mcp-server)
 - [ ] Marketplace listings (WorkBuddy / Doubao / Coze) in review pipeline
 
 © KongMing AI — [www.kmingai.com](https://www.kmingai.com)

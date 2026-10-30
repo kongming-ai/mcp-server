@@ -2,8 +2,8 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.kongming-ai/mcp-server",
   "title": "KongMing Growth MCP",
-  "description": "Cross-border e-commerce growth tools: mentions, pain points, competitors, GEO audit, synthesis.",
-  "version": "1.0.1",
+  "description": "Cross-border e-commerce growth tools: mentions, pain points, competitors, GEO audit, strategic synthesis, plus AI media generation (images/videos, image-set pipeline, video teardown, light processing) with per-use credit pricing.",
+  "version": "1.0.4",
   "websiteUrl": "https://www.kmingai.com",
   "repository": {
     "url": "https://github.com/kongming-ai/mcp-server",
@@ -24,8 +24,8 @@
   ],
   "_meta": {
     "io.modelcontextprotocol.registry/publisher-provided": {
-      "note": "Live endpoint (public since 2026-09-26); users supply their own KongMing API key from app.kmingai.com.",
-      "built": "2026-09-26"
+      "note": "Live endpoint (public since 2026-09-26); 20 tools callable as of 2026-10-30; KongMing API keys are issued by KongMing staff (dev@kmingai.com).",
+      "built": "2026-10-30"
     }
   }
 }
