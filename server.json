@@ -2,7 +2,7 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.kongming-ai/mcp-server",
   "title": "KongMing Growth MCP",
-  "description": "Cross-border e-commerce growth tools: mentions, pain points, competitors, GEO audit, strategic synthesis, plus AI media generation (images/videos, image-set pipeline, video teardown, light processing) with per-use credit pricing.",
+  "description": "Cross-border growth tools: mentions, pain points, competitors, GEO, synthesis, AI media.",
   "version": "1.0.4",
   "websiteUrl": "https://www.kmingai.com",
   "repository": {
